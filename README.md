@@ -7,7 +7,7 @@ Repository Contents
     Algorithms and Models: Implementations of popular XAI algorithms, including LIME, SHAP, and others.
     Case Studies: Real-world examples where XAI has been used to uncover insights, correct biases, or improve decision-making.
     Documentation and Tutorials: Guides and detailed explanations to help you understand and implement XAI techniques.
-    Datasets: A collection of datasets used for demonstrating XAI approaches and instructions for reproducing results.
+    Datasets: A collection of datasets that demonstrate XAI approaches and instructions for reproducing results.
 
 # Contribution Guidelines
 
@@ -16,4 +16,4 @@ We welcome contributions from the community! If you'd like to contribute, please
     Fork the repository and create a new branch for your changes.
     Make your changes, ensuring your code follows our coding standards.
     Submit a pull request with a detailed description of your changes and their purpose.
-    The project maintainers will look over your request and work with you to integrate it.
+    The project maintainers will review your request and integrate it with you.
