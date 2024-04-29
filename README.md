@@ -1,6 +1,6 @@
 # Explainable-AI-Projects
 
-![XAI] (https://www.datanami.com/wp-content/uploads/2020/01/explainable_AI_shutterstock_-BAIVECTOR.jpg)
+![XAI](https://www.datanami.com/wp-content/uploads/2020/01/explainable_AI_shutterstock_-BAIVECTOR.jpg)
 Welcome to the Explainable-AI-Projects repository! This collection of projects is dedicated to exploring and developing Explainable Artificial Intelligence (XAI) techniques and applications. The aim is to make AI systems more transparent, interpretable, and understandable, enabling users to trust and gain insights from AI-driven solutions.
 Repository Contents
 
