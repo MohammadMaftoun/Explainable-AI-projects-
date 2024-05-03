@@ -16,5 +16,5 @@ We welcome contributions from the community! If you'd like to contribute, please
 
     Fork the repository and create a new branch for your changes.
     Make your changes, ensuring your code follows our coding standards.
-    Submit a pull request with a detailed description of your changes and their purpose.
-    The project maintainers will review your request and integrate it with you.
+    Submit a pull request with a detailed description of your changes and their goal.
+    The project maintainers will reanalyze your request and integrate it with you.
