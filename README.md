@@ -29,7 +29,7 @@ To help you get started, we've included detailed setup instructions in the READM
 
 # Community and Support
 
-Our community is committed to fostering an inclusive and supportive environment for all contributors. If you have any questions or need assistance, please join our Discord channel or open an issue on GitHub. We also encourage you to participate in discussions, share your insights, and collaborate with others to advance the field of Explainable AI.
+Our community is committed to fostering an inclusive and supportive environment for all contributors. If you have any questions or need assistance, please join our Discord channel or open an issue on GitHub. We also encourage you to experience discussions, share your insights, and collaborate with others to advance the field of Explainable AI.
 
 We hope you find this repository valuable and look forward to your contributions!
 
