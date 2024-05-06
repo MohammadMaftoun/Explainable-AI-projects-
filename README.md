@@ -21,7 +21,7 @@ We welcome contributions from the community! If you'd like to contribute, please
 
 # Collaborations and Contributions
 
-This repository is designed to be a collaborative platform where developers, data scientists, and researchers can contribute to the ongoing exploration of Explainable AI. If you have a project or an idea that aligns with our mission, we encourage you to submit a pull request or start a discussion. Contributions are welcome, whether you're interested in improving existing algorithms, proposing new methods, or sharing your own case studies.
+This repository is designed to be a collaborative platform where developers, data scientists, and researchers can contribute to the ongoing exploration of Explainable AI. If you have a project or an idea that aligns with our mission, we encourage you to submit a pull request or start a discussion. Contributions are welcome, whether you're interested in improving existing algorithms, proposing new methods, or sharing your case studies.
 
 # Getting Started
 
