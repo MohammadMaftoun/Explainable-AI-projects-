@@ -25,11 +25,11 @@ This repository is designed to be a collaborative platform where developers, dat
 
 # Getting Started
 
-To help you get started, we've included detailed setup instructions in the README file. Here, you'll find guidelines on how to clone the repository, install required dependencies, and navigate through the project structure. If you're new to XAI, our tutorials and documentation offer step-by-step guidance on implementing various techniques, along with explanations of key concepts.
+To help you get started, we've included detailed setup instructions in the README file. Here, you'll find guidelines for cloning the repository, installing required dependencies, and navigating through the project structure. If you're new to XAI, our tutorials and documentation offer step-by-step guidance on implementing various techniques and explanations of key concepts.
 
 # Community and Support
 
-Our community is committed to fostering an inclusive and supportive environment for all contributors. If you have any questions or need assistance, please join our Discord channel or open an issue on GitHub. We also encourage you to experience discussions, share your insights, and collaborate with others to advance the field of Explainable AI.
+Our community is committed to fostering an inclusive and supportive environment for all contributors. If you have questions or need assistance, please join our Discord channel or open an issue on GitHub. We also encourage you to experience discussions, share your insights, and collaborate with others to advance the field of Explainable AI.
 
 We hope you find this repository valuable and look forward to your contributions!
 
